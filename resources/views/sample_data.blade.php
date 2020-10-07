@@ -14,7 +14,7 @@
 <body>
     <div class="container">
         <br />
-        <h3 align="center">How to Delete or Remove Data From Mysql in Laravel 6 using Ajax</h3>
+        <h3 align="center">表單中心</h3>
         <br />
         <div align="right">
             <button type="button" name="create_record" id="create_record" class="btn btn-success btn-sm">Create
